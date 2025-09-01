@@ -40,7 +40,9 @@ Here's a walkthrough of implemented required features:
 
 https://imgur.com/a/vcCHVCS
 
-👉🏿<img src='https://imgur.com/a/VRFHk0U' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://i.imgur.com/6oljMIA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Check out my first version on: https://github.com/VJL0/creatorverse
 
 
 ## Notes
